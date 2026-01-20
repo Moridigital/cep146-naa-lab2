@@ -23,7 +23,7 @@
 
 monday | tuesday | wednesday | thursday | friday |
 -------|---------|-----------|----------|--------|
-MTH 140|CEP 146  |IPC 144    |OPS 102   |APS
+MTH 140|CEP 146  |IPC 144    |OPS 102   |APS 
 
 
 
